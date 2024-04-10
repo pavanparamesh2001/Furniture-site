@@ -1,0 +1,17 @@
+.card{
+    transition: all 0.3s;
+}
+
+.card:hover{
+    transform: scale(1.15);
+}
+.carousel-caption d-none d-md-block h4{
+    color: black;
+    font-weight: 500;
+    font-size: x-large;
+
+}
+
+
+
+    
